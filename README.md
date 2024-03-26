@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-albashir
-- 👀 I’m interested in computer vision, ML, geospatial data
+- 👀 I’m interested in computer vision, ML, geospatial data and urban metrics
 
 
 <!---
